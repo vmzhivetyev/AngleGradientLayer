@@ -21,6 +21,7 @@ let package = Package(
             path: "Sources",
             exclude: [],
             publicHeadersPath: "AngleGradientLayer"),
+        // https://forums.swift.org/t/swift-package-manager-for-objc-targets/25968
         .testTarget(
             name: "AngleGradientLayerTests",
             dependencies: ["AngleGradientLayer"]),
