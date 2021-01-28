@@ -1,3 +1,8 @@
+## FORK EDITS by vmzhivetyev
+
+* Rebuilt repo for SPM support
+
+
 ## Deprecation
 
 This library is deprecated in favor of `iOS 12` [CAGradientLayer](https://developer.apple.com/documentation/quartzcore/cagradientlayer) layer type [.conic](https://developer.apple.com/documentation/quartzcore/cagradientlayertype)
